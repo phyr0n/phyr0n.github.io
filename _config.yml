@@ -9,7 +9,6 @@ plugins: [jekyll-paginate]
 port: 3000
 safe: true
 
-
 # edit here to achieve your personal greatness
 url: http://username.github.io/
 baseurl: ""
@@ -18,15 +17,13 @@ author: Adam Tait
 description: Personal blog and resume
 avatar: profile.png
 email: yourname@email.com
-github: jekyllt/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
-medium: username #e.g: NobelPeaceOslo
-#Comment out if you don't want disqus
-disqus: username
+github: phyr0n
+twitter: AdamTaiit
+linkedin: AdamTaiit
 google_analytics: UA-69391421-1
 
+# site customisation
+accent-color: #CC0000
 
 # needed for travis-ci build
 exclude: [vendor]

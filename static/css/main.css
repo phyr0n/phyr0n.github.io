@@ -133,6 +133,7 @@ body {
 }
 .panel{
   border-style: none;
+  background-color: #303030;
 }
 .panel-body {
   padding-top: -10px;
