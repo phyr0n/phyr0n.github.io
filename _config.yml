@@ -12,9 +12,9 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://username.github.io/
-baseurl: 
-title: Chris Turner
-author: Chris Turner
+baseurl: localhost:3000/
+title: Adam Tait
+author: Adam Tait
 description: Personal blog and resume
 avatar: profile.png
 email: yourname@email.com
