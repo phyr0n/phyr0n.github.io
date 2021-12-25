@@ -11,19 +11,15 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://username.github.io/
-baseurl: ""
 title: Adam Tait
 author: Adam Tait
 description: Personal blog and resume
 avatar: profile.png
-email: yourname@email.com
+email: adamtaitcs@gmail.com
 github: phyr0n
 twitter: AdamTaiit
 linkedin: AdamTaiit
 google_analytics: UA-69391421-1
-
-# site customisation
-accent-color: #CC0000
 
 # needed for travis-ci build
 exclude: [vendor]
