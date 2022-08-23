@@ -15,11 +15,8 @@ title: Adam Tait
 author: Adam Tait
 description: Personal blog and resume
 avatar: profile.png
-email: adamtaitcs@gmail.com
+email: me@adamtait.net
 github: phyr0n
 twitter: AdamTaiit
 linkedin: AdamTaiit
 google_analytics: UA-69391421-1
-
-# needed for travis-ci build
-exclude: [vendor]
